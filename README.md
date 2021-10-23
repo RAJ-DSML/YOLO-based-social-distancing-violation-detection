@@ -33,3 +33,8 @@ You need to install following python packages along with Jupyter Notebook.
   ```sh
   pip install imutils
   ```
+  
+### Methods
+* The backbone of our pre-trained model is YOLO v3.
+* Here we use supporting weights for the architecture trained with the COCO data set.
+* Measured the distance between two persons using “Euclidean/L2 Norms”.
