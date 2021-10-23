@@ -38,3 +38,9 @@ You need to install following python packages along with Jupyter Notebook.
 * The backbone of our pre-trained model is YOLO v3.
 * Here we use supporting weights for the architecture trained with the COCO data set.
 * Measured the distance between two persons using “Euclidean/L2 Norms”.
+
+### Dataset
+* As the objective of the project is to work with CCTV footages, we considered a real-world video as our dataset.
+* The test dataset is a recorded video of 3351 number of frames (720P - 30 FPS).
+* Configuration : Android Phone with 48 Mega-Pixel Image Sensor
+* Location : Bandel, West Bangal.
