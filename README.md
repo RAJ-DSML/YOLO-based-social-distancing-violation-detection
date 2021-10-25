@@ -62,4 +62,9 @@ You need to install following python packages along with Jupyter Notebook.
    
  The model is detecting only the human beings and calculating the distance between the nearest bounding box. This is how it is taking a decision between high risk and safe distances.
    
- 
+### Conclusion
+    
+* The Final model is taking the decision based upon the pixel distance which can be modified based upon the recommendations by the experts.
+* As the model is robust it can be used for any type of videos recorded from various devices (e.g.: Mobile Phones, CCTV footages, Cameras, Drones etc.) 
+
+Output Video Link : https://www.facebook.com/100009251473110/videos/pcb.2902819053369782/2902807873370900
