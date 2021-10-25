@@ -53,3 +53,13 @@ You need to install following python packages along with Jupyter Notebook.
   
  * At the initial stage the model is detecting almost all the object present in the video as well as in the coco data set.
  * We need to filter out only human beings.
+  
+ ### Final Result
+  <p align="center">
+  <a href="https://github.com/RAJ-DSML/YOLO-based-social-distancing-violation-detection/blob/main/img/final_result.JPG">
+    <img src="https://github.com/RAJ-DSML/YOLO-based-social-distancing-violation-detection/blob/main/img/final_result.JPG" alt="Logo" width="800" height="500">
+  </a>
+   
+ The model is detecting only the human beings and calculating the distance between the nearest bounding box. This is how it is taking a decision between high risk and safe distances.
+   
+ 
