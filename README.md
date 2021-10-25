@@ -44,3 +44,12 @@ You need to install following python packages along with Jupyter Notebook.
 * The test dataset is a recorded video of 3351 number of frames (720P - 30 FPS).
 * Configuration : Android Phone with 48 Mega-Pixel Image Sensor
 * Location : Bandel, West Bangal.
+
+### Initial Result
+<p align="center">
+  <a href="https://github.com/RAJ-DSML/YOLO-based-social-distancing-violation-detection/blob/main/img/initial_result.JPG">
+    <img src="https://github.com/RAJ-DSML/YOLO-based-social-distancing-violation-detection/blob/main/img/initial_result.JPG" alt="Logo" width="800" height="500">
+  </a>
+  
+ * At the initial stage the model is detecting almost all the object present in the video as well as in the coco data set.
+ * We need to filter out only human beings.
