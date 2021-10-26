@@ -68,3 +68,5 @@ You need to install following python packages along with Jupyter Notebook.
 * As the model is robust it can be used for any type of videos recorded from various devices (e.g.: Mobile Phones, CCTV footages, Cameras, Drones etc.) 
 
 Output Video Link : https://www.facebook.com/100009251473110/videos/pcb.2902819053369782/2902807873370900
+
+Poster Presentation Link : https://ijcsmc.com/docs/papers/October2021/V10I10202110.pdf
